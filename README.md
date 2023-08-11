@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Krycha94/krycha94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi! I'm Krystian 👋</h1>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 About Me:</h2>
+
+*   🌍  I'm based in Bydgoszcz, Poland
+*   🖥️  See my [Portfolio Website](http://krystiankowalski.netlify.app)
+*   🧠  I'm learning everything JavaScript
+*   ⚡  I love online/board games, gym and MMA
+
+<br />
+
+<h2>🛠️ My Stack:</h2>
+
+<p><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nextjs,jest&perline=16" alt="Tech Stack" /> </p>
+
+<br />
+
+<h2>🔥 My Stats:</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krycha94&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
